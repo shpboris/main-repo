@@ -1,0 +1,3 @@
+[submodule "dep-repo"]
+	path = dep-repo
+	url = https://github.com/shpboris/dep-repo
